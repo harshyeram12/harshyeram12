@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 👇 Yaha apne banner ka RAW link daalna -->
-  <img src="https://raw.githubusercontent.com/harshyeram12/harshyeram12/main/IMG-20251205-WA0011.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/harshyeram12/harshyeram12/main/IMG-20251205-WA0011 (1).jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm HARSH MANOHAR YERAM</h1>
