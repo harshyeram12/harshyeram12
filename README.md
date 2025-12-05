@@ -86,6 +86,11 @@ S. L. Desai Vidyalay Pat
   G.V. Acharya Institute of Engineering & Technology Internal Hackathon 2025 - GIH2025  
   *(Awarded Certificate of Appreciation for being part of the event management & organizing team)*
 
+- 📝 **Research Paper Published — IJARIIE Journal (2025)**  
+  Published a research paper titled **“2D Platformer Game Development with Godot Engine”**  
+  Featured in **Volume–11, Issue–1 (Jan–Feb 2025)** of the *International Journal of Advance Research, Ideas and Innovations in Technology (IJARIIE)*.
+
+
 ---
 
 ## 💼 Work Experience
